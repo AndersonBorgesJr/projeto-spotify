@@ -80,6 +80,33 @@ nav.navbar-transparente{
     background-color: white;
     color: black;
 }
+
+/*SERVIÇOS
+----------*/
+#servicos{
+    background-color: white;
+    padding: 15px 0px;
+}
+
+#servicos img{
+    margin: 15px 0px;
+}
+
+#servicos h2{
+    font-size: 3em;
+    font-weight: 700;
+    letter-spacing: -0.04em;
+    margin-top: 10px;
+    color: #7c25f8;
+}
+
+#servicos h3{
+    font-size: 2em;
+    font-weight: 700;
+    letter-spacing: -0.04em;
+    color: #7c25f8;
+}
+
 /* MEDIA QUERY
 --------------*/
 
