@@ -107,6 +107,64 @@ nav.navbar-transparente{
     color: #7c25f8;
 }
 
+/*RECURSOS
+----------*/
+#recursos p{
+    color: white;
+}
+
+#recursos h2{
+    font-size: 3em;
+    font-weight: 700;
+    letter-spacing: -0.04em;
+    margin-top: 10px;
+    color: white;
+}
+
+#recursos h3{
+    font-size: 2em;
+    font-weight: 700;
+    letter-spacing: -0.04em;
+    color: #9bf0e1;
+}
+
+.rotacionar{
+    transform: rotate(30deg);
+    padding-left: 100px;
+}
+
+/*RODAPE
+--------*/
+footer{
+    background-color: black;
+    padding: 50px 0px 20px 0px;
+    position: relative;
+}
+
+footer h4{
+    color: lightgrey;
+    font-size: 0.8em;
+}
+
+footer .navbar-nav a{
+    font-size: 0.8em;
+    color: white;
+}
+
+footer .navbar-nav a:hover{
+    color: #9bf0e1;
+    text-decoration: none;
+}
+
+footer ul{
+    list-style-type: none;
+}
+
+footer ul li{
+    float: right;
+    margin: 0px 10px;
+}
+
 /* MEDIA QUERY
 --------------*/
 
